@@ -1,0 +1,32 @@
+{
+  "version": "2026.09.22-static-1",
+  "snapshotAt": "2026-09-22T14:48:29.101Z",
+  "customers": 633,
+  "stores": 36,
+  "preGeneratedModelCases": 15,
+  "ruleCases": 618,
+  "tableCounts": {
+    "rules": 20,
+    "organizations": 39,
+    "cards": 13,
+    "card_items": 7,
+    "channel_orders": 7,
+    "allocations": 111,
+    "customers": 633,
+    "events": 129,
+    "participation": 875,
+    "orders": 814,
+    "order_items": 814,
+    "payments": 928,
+    "customer_cards": 750,
+    "entitlement_events": 333,
+    "deliveries": 755,
+    "customer_events": 1288,
+    "opportunities": 630,
+    "tasks": 24,
+    "settlements": 0
+  },
+  "sourceHash": "c379933246b2952aa870891dbdb9b552361e3cb06199246d9daf152661253c9f",
+  "htmlSHA256": "0d0221331c55736e464757250daee1b5fd7777846085a6529caacd4dea6880ad",
+  "htmlBytes": 13943329
+}
