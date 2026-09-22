@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.23-static-2",
+  "version": "2026.09.23-static-3",
   "snapshotAt": "2026-09-22T14:48:29.101Z",
   "customers": 633,
   "stores": 36,
@@ -27,6 +27,6 @@
     "settlements": 0
   },
   "sourceHash": "c379933246b2952aa870891dbdb9b552361e3cb06199246d9daf152661253c9f",
-  "htmlSHA256": "a7380ab219b3aa2edd28bbe79a1cf02ba983e0bac1bf9f0fc3c2b8b6b484b823",
-  "htmlBytes": 13931018
+  "htmlSHA256": "09d70bf9b140a40eaf480c0e1f9a2fe64abd26176dcbc41e89a69ae523230a24",
+  "htmlBytes": 13949839
 }
