@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.23-static-3",
+  "version": "2026.09.23-static-4",
   "snapshotAt": "2026-09-22T14:48:29.101Z",
   "customers": 633,
   "stores": 36,
@@ -26,7 +26,7 @@
     "tasks": 24,
     "settlements": 0
   },
-  "sourceHash": "c379933246b2952aa870891dbdb9b552361e3cb06199246d9daf152661253c9f",
-  "htmlSHA256": "09d70bf9b140a40eaf480c0e1f9a2fe64abd26176dcbc41e89a69ae523230a24",
-  "htmlBytes": 13949839
+  "sourceHash": "61428add9de40f378063a240350da35a2f139eb341e97762ac50689b8485caa0",
+  "htmlSHA256": "5b5d9971e173faa238aba9b1874e8f43cc006a3bd1f63bc19c3e970fbe638079",
+  "htmlBytes": 13960880
 }
