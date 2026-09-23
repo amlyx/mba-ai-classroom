@@ -1,32 +1,6 @@
 {
-  "version": "2026.09.23-static-4",
-  "snapshotAt": "2026-09-22T14:48:29.101Z",
-  "customers": 633,
-  "stores": 36,
-  "preGeneratedModelCases": 15,
-  "ruleCases": 618,
-  "tableCounts": {
-    "rules": 20,
-    "organizations": 39,
-    "cards": 13,
-    "card_items": 7,
-    "channel_orders": 7,
-    "allocations": 111,
-    "customers": 633,
-    "events": 129,
-    "participation": 875,
-    "orders": 814,
-    "order_items": 814,
-    "payments": 928,
-    "customer_cards": 750,
-    "entitlement_events": 333,
-    "deliveries": 755,
-    "customer_events": 1288,
-    "opportunities": 630,
-    "tasks": 24,
-    "settlements": 0
-  },
-  "sourceHash": "61428add9de40f378063a240350da35a2f139eb341e97762ac50689b8485caa0",
-  "htmlSHA256": "5b5d9971e173faa238aba9b1874e8f43cc006a3bd1f63bc19c3e970fbe638079",
-  "htmlBytes": 13960880
+  "version": "2026.09.23-static-4-access-1",
+  "encrypted": true,
+  "htmlSHA256": "ec23cab8c7f90e5bdd264aab9bf7c62a053b888287a6c15744cac3a5a6328cd6",
+  "htmlBytes": 978902
 }
